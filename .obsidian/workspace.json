@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generative Intelligence (GI) Based Notebook.md",
+                "file": "Technologies/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,11 +169,11 @@
   },
   "active": "320a4f95c1e5e46e",
   "lastOpenFiles": [
-    "README.md",
+    "Technologies/Python.md",
     "Generative Intelligence (GI) Based Notebook.md",
     "Conversation Dumps/9.17.23 Start.md",
+    "README.md",
     "Conversation Dumps",
-    "Technologies/Python.md",
     "Technologies/VueJS and Typescript.md",
     "Technologies/neo4j.md",
     "Technologies/Godot 35.md",
