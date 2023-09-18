@@ -1,45 +1,35 @@
-# Goals to Accomplish with [Name of Technology]
+### **To-Do: Test 3D Assets in Godot Web Export**
 
-**[Name of Technology]** is used for **[use case for technology]**. We will be using **[Technologies' favored language]**.
+- [ ] **1. Setup Godot Project**:
+   - [ ] Create a new Godot project.
+   - [ ] Import textured, animated character assets into the Godot project.
 
-## Checklist
+- [ ] **2. Design a Simple Scene in Godot**:
+   - [ ] Place the textured, animated character in a Godot scene.
+   - [ ] Add basic camera controls in Godot to navigate around the scene.
+   - [ ] Implement Godot scripts to animate or interact with the character.
 
-1. **Setup and Installation**
-   - [ ] Download and install [Name of Technology]
-   - [ ] Set up the development environment for [Technologies' favored language]
+- [ ] **3. Transition between Vulkan and WebGL**:
+   - [ ] Work with the Godot project using Vulkan for the Windows and Android versions.
+   - [ ] Transition to using WebGL and Emscripten for the web version.
 
-2. **Basic Understanding**
-   - [ ] Go through the official documentation of [Name of Technology]
-   - [ ] Complete a "Hello World" example using [Technologies' favored language]
+- [ ] **4. HTML5 Export with Emscripten**:
+   - [ ] In Godot, navigate to `Project > Export`.
+   - [ ] Add an `HTML5` export preset.
+   - [ ] Under the `Export Options`, ensure `Emscripten` is selected.
+   - [ ] Configure any other necessary settings specific to your project.
+   - [ ] Export and test the Godot project in multiple web browsers to ensure compatibility and performance.
+   - [ ] Host the exported HTML5 game on a server or platform of choice to test real-world loading and performance.
 
-3. **Advanced Features**
-   - [ ] Explore advanced modules and libraries related to [Name of Technology]
-   - [ ] Implement a sample project showcasing the capabilities of [Name of Technology]
+- [ ] **5. Other Exports**:
+   - **Windows**:
+     - [ ] Configure the Godot export settings for Windows using Vulkan.
+     - [ ] Test the game on a Windows machine to ensure smooth performance and correct asset rendering.
+   - **Android**:
+     - [ ] Configure the Godot export settings for Android using Vulkan.
+     - [ ] Test the game on actual Android devices to ensure smooth performance and correct asset rendering.
 
-4. **Integration**
-   - [ ] Integrate [Name of Technology] with other tools and platforms
-   - [ ] Ensure compatibility and smooth functioning
-
-5. **Optimization**
-   - [ ] Optimize the performance of applications using [Name of Technology]
-   - [ ] Address any security concerns and vulnerabilities
-
-6. **Deployment**
-   - [ ] Prepare the application for production deployment
-   - [ ] Ensure scalability and reliability in a real-world environment
-
-7. **Feedback and Iteration**
-   - [ ] Gather feedback on the application's performance
-   - [ ] Make necessary updates and improvements based on feedback
-
-8. **Documentation and Training**
-   - [ ] Document the entire development process
-   - [ ] Provide training to team members on [Name of Technology]
-
-9. **Maintenance**
-   - [ ] Regularly update [Name of Technology] to the latest version
-   - [ ] Monitor and address any issues or bugs that arise
-
----
-
-Remember to regularly review and update this checklist as [Name of Technology] evolves and new features are added.
+- [ ] **6. Documentation**:
+   - [ ] Document any challenges or issues faced during the Godot export process.
+   - [ ] Note down solutions or workarounds implemented for each challenge in Godot.
+   - [ ] Create a Godot guide or tutorial for the team on how to export 3D assets for various platforms using Godot 4.
