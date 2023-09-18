@@ -19,4 +19,4 @@ This notebook serves as a record of our journey through the vast landscape of kn
 - **Conversation dumps**: Many of these ideas will start by asking GPT questions and learning from the results. We'll include the questions and answers in the notebook.
 - **Reflections**: Periodically, we'll take a moment to reflect on what we've learned, noting down insights and realizations.
 - **Links & Resources**: If there are external resources or links that can enhance our understanding, they'll be included in the notebook.
-- **Progress Trackers**: We'll maintain a log of topics covered, ensuring that we're moving forward in our learning journey.##
+- **Progress Trackers**: We'll maintain a log of topics covered, ensuring that we're moving forward in our learning journey.
