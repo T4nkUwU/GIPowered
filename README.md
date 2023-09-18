@@ -1,6 +1,9 @@
 ## Generative Intelligence (GI) Based Notebook
 Welcome to this unique notebook, where we harness the power of **Generative Intelligence (GI)** to facilitate and document the process of learning.
 
+## NOTES
+9.17.23 - https://downloads.tuxfamily.org/godotengine/4.1.1/ < This is the version of Godot we are using 
+
 ## What is This Notebook?
 
 This notebook is a collection of ideas that Rafi has decided to chase. He's asking a GI how to do things, learn things and create things and it's giving him the answers. It's much smarter than him and capable of producing results faster, so instead we will be copying and pasting all of the GI's answers into this notebooks so that it's easier to learn from.
